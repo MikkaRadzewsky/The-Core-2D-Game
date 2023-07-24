@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 56f53ea2e878d4d2786fef0184d43b87
+  - enabled: 1
+    path: Assets/Scenes/Opening Scene.unity
+    guid: f9a58dfde56f746a9b799cd8d611ea54
+  - enabled: 1
+    path: Assets/Scenes/Dialogue-before lvl1.unity
+    guid: fc822f66a4dd14b1690b3923187d925c
+  - enabled: 1
+    path: Assets/Scenes/Battle Map 1.unity
+    guid: fa6e4e38b5ec549608ff0d2fe5f1a75c
+  - enabled: 1
+    path: Assets/Scenes/Dialogue-after lv 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Battle Map 2.unity
+    guid: 405360f53ebfb4b988867dc8628efe34
+  - enabled: 1
+    path: Assets/Scenes/Dialogue-after lv 2.unity
+    guid: 12ead955b7bf04bedb92640f7eb2a72f
+  - enabled: 1
+    path: Assets/Scenes/Battle Map 3.unity
+    guid: e04dab46dcbd24c70be8adf621f15f93
+  - enabled: 1
+    path: Assets/Scenes/Dialogue-after lv 3.unity
+    guid: 7b0cfb2b96f6f43c993a1fc281673194
+  - enabled: 1
+    path: Assets/Scenes/Dialogue-last level.unity
+    guid: 1ddac40883c1e4cddba6659711caec31
+  - enabled: 1
+    path: Assets/Scenes/Battle Map 4.unity
+    guid: 14890a9b790464f0e9b20ed370c433dd
+  - enabled: 1
+    path: Assets/Scenes/Dialogue-after lv 4.unity
+    guid: 2e11e8be2b4d54fddae06eff8cf5987f
+  - enabled: 1
+    path: Assets/Scenes/Info.unity
+    guid: 35266c5f1ab0649c7ae10972bc072094
+  m_configObjects: {}

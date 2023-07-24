@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - speakingSprite
+  - AttackButton
+  - Highlight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Characters
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Borders
+    uniqueID: 162805295
+    locked: 0
+  - name: Indicators
+    uniqueID: 3423359571
+    locked: 0
+  - name: Characters
+    uniqueID: 2129695569
+    locked: 0
+  - name: Tutorial
+    uniqueID: 1995077847
+    locked: 0
