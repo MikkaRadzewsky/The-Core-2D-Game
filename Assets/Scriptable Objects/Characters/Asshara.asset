@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7293c5a49c764461c8f34beefe35a11e, type: 3}
+  m_Name: Asshara
+  m_EditorClassIdentifier: 
+  characterName: Asshara
+  image: {fileID: 21300000, guid: d7b1ed6c597cf4c13a61bde07cc88212, type: 3}
+  unitType: {fileID: 11400000, guid: bfeec11fc789d4563aee3e8ff62dd1d5, type: 2}
+  attacks:
+  - {fileID: 11400000, guid: 16573aa85787c41cdae56970a5de24b8, type: 2}
+  - {fileID: 11400000, guid: a10a71734fd70449b948725037edc76a, type: 2}
+  coreStats: {fileID: 11400000, guid: ade54420dc4ef4497a8bcb279ee1b78e, type: 2}
+  currentStats: {fileID: 0}
+  aleigence: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7293c5a49c764461c8f34beefe35a11e, type: 3}
+  m_Name: Common Vice
+  m_EditorClassIdentifier: 
+  characterName: Common Vice
+  image: {fileID: 0}
+  unitType: {fileID: 11400000, guid: dfe340701ff3844d49fb36219f3e4693, type: 2}
+  attacks:
+  - {fileID: 11400000, guid: 72da9342175824fd183e1aeadf09b421, type: 2}
+  coreStats: {fileID: 11400000, guid: 18f0d8156bdeb42bd9beacd84a434f65, type: 2}
+  currentStats: {fileID: 0}
+  aleigence: 1

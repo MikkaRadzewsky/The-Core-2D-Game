@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9299d447abca74149a449f27b8d49620, type: 3}
+  m_Name: Charged Lash
+  m_EditorClassIdentifier: 
+  attackName: Charged Lash
+  description: Charge and release a strong double hit
+  sprite: {fileID: 21300000, guid: 24412bd6e569241118aacef860f2c138, type: 3}
+  type: 1
+  intent: 03000000
+  targetsFoe: 1
+  numberOfTargets: 1
+  stat: 3
+  damageAmount: 30
+  otherAmount: 0
+  coolDown: 3
